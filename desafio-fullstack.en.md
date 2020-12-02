@@ -1,5 +1,5 @@
 # About Euax Group
-If you have arrived here and do not know what this page is about, visit our page at [Grupo EUAX](https://grupoeuax.com.br/carreira/) and find out more about us, then come back and take part into our challenge for a Web Developer position.
+If you have arrived here and do not know what this page is about, visit our page at [Euax Group](https://grupoeuax.com.br/carreira/) and find out more about us, then come back and take part into our challenge for a Web Developer position.
 
 # Web Developer Challenge
 
